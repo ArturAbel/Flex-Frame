@@ -348,13 +348,13 @@ body{
 
    .instagram-title{
       text-align: center;
-      padding: 4rem 0;
+      padding-top: 5rem ;
 
       & h1{
-         font-size: 4rem;
+         font-size: 3rem;
       }
       & p{
-         font-size: 1.5rem;
+         font-size:$btn-size;
       }
    }
 

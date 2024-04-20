@@ -348,11 +348,11 @@ body {
 
 .instagram .instagram-title {
   text-align: center;
-  padding: 4rem 0; }
+  padding-top: 5rem; }
   .instagram .instagram-title h1 {
-    font-size: 4rem; }
+    font-size: 3rem; }
   .instagram .instagram-title p {
-    font-size: 1.5rem; }
+    font-size: 1.4rem; }
 
 .instagram .instagram-grid {
   display: grid;
