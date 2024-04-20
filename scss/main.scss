@@ -100,7 +100,7 @@ body{
       gap: 7rem;
 
       &-title{
-         font-size:10rem;
+         font-size:8rem;
          text-shadow: 6px -5px 0px $background-secondary;
          font-family: $title-font;
       }
@@ -415,7 +415,7 @@ body{
          grid-area: footer-left-container; 
          
          &-title{
-            font-size:7rem;
+            font-size:4rem;
             font-weight: 600;
             text-shadow: 6px -4px 0px $background-secondary;
             font-family: $title-font;
@@ -428,8 +428,8 @@ body{
             margin: 2rem 0;
 
             &-icon{
-               width: 3rem;
-               height: 3rem;
+               width: 2.5rem;
+               height: 2.5rem;
                margin: 0 0.6rem;
                cursor: pointer;
 
